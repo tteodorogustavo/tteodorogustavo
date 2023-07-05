@@ -20,5 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=tteodorogustavo&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![snake gif](https://github.com/Formandodev/tteodorogustavo/blob/output/github-contribution-grid-snake.svg)

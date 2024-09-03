@@ -1,5 +1,47 @@
 
-- 👋 Ola, eu sou @tteodorogustavo<br>- 👀 me interesso por algoritimos e suas infinitas possibilidades de criação<br>- 🌱 sou estudante do curso bacharelado de Sistemas de Informação na Universidade Federal de Lavras
+# Olá! Bem-vindo(a) ao meu repositório!
+
+<br>
+
+## Minha experiência:
+
+🌐 Tenho experiência em trabalhar com Python, SQL, C++, dentre outras tecnologias que estou me desenvolvendo <br>
+🎲 Trabalhei como Product Owner e Assessor de Vendas na Comp Júnior, empresa junior da minha universidade <br>
+📚 Estou estudando Sistemas de Informação na UFLA (Universidade Federal de Lavras) <br>
+📧 Quer entrar em contato comigo? Envie um e-mail para gustavo.tteodoro@gmail.com <br>
+<br>
+
+<br>
+
+## Sobre mim:
+
+Olá! Meu nome é Gustavo, tenho 20 anos e sou estudante de Sistemas de Informação na Universidade Federal de Lavras.<br>
+
+### Hard Skills:
+
+SQL
+Estatística descritiva e inferencial aplicada à análise de dados
+Excel e PowerBI
+C++
+JavaScript
+Git & Version Control
+<br>
+
+<br>
+
+### Soft Skills:
+
+Comunicativo
+Trabalho em equipe
+Proatividade
+Senso de liderança
+Autodidata
+<br>
+
+<br>
+
+
+Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
 
 ##
 <a href="https://instagram.com/gustavo_tteodoro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href = "mailto:tteodoro.gustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

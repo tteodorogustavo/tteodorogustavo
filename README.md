@@ -8,7 +8,7 @@
 🌐 Tenho experiência em trabalhar com Python, SQL, C++, dentre outras tecnologias que estou me desenvolvendo <br>
 🎲 Trabalhei como Product Owner e Assessor de Vendas na Comp Júnior, empresa junior da minha universidade <br>
 📚 Estou estudando Sistemas de Informação na UFLA (Universidade Federal de Lavras) <br>
-📧 Quer entrar em contato comigo? Envie um e-mail para gustavo.tteodoro@gmail.com <br>
+📧 Quer entrar em contato comigo? Envie um e-mail para tteodoro.gustavo@gmail.com <br>
 <br>
 
 <br>
